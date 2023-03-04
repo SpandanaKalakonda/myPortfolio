@@ -1,0 +1,98 @@
+{
+  "interests": [
+    {
+      "label": "HTML",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Angular",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "../../images/notebook.png",
+        "alt": ""
+      }
+    },
+    {"label": "Spring",
+    "image": {
+      "src": "../../images/notebook.png",
+      "alt": ""
+    }},
+    {"label": "MySQL",
+    "image": {
+      "src": "../../images/notebook.png",
+      "alt": ""
+    }},
+    {"label": "MongoDB",
+    "image": {
+      "src": "../../images/notebook.png",
+      "alt": ""
+    }},
+    {"label": "Python",
+    "image": {
+      "src": "../../images/notebook.png",
+      "alt": ""
+    }},
+    {"label": "Git & GitHub",
+    "image": {
+      "src": "../../images/notebook.png",
+      "alt": ""
+    }},
+    {"label": "AWS",
+    "image": {
+      "src": "../../images/notebook.png",
+      "alt": ""
+    }},
+    {"label": "Junit",
+    "image": {
+      "src": "../../images/notebook.png",
+      "alt": ""
+    }},
+    {"label": "Jira",
+    "image": {
+      "src": "../../images/notebook.png",
+      "alt": ""
+    }}
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 8
+  }
+}

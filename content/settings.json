@@ -1,0 +1,42 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Gatsby Starter for Portfolio Minimal",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "author": "Konstantin Münster",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "github": "https://github.com/SpandanaKalakonda",
+      "linkedin": "https://www.linkedin.com/in/spandana-kalakonda/",
+      "mail": "mailto:spandana.kf15@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Portfolio" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Skills", "url": "/#details" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "GitHub", "url": "https://github.com/SpandanaKalakonda" },
+        { "label": "Made With Gatsby", "url": "https://www.gatsbyjs.com/starters/" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

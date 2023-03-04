@@ -1,0 +1,13 @@
+{
+  "name": "Spandana Kalakonda",
+  "email": "spandana.kf15@gmail.com",
+  "description": "Reach out to me!",
+  "image": {
+    "src": "../../images/Spandana.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

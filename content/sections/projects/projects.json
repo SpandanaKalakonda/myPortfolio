@@ -1,0 +1,68 @@
+{
+  "projects": [
+  
+    {
+      "visible": true,
+      "category": "front-end",
+      "title": "Fruit Store Web page",
+      "description": "Front end webpage created using HTML, CSS, JavaScript",
+      "tags": ["front-end", "project"],
+      "image": {
+        "src": "../../images/food-store.png",
+        "alt": "Food-store app",
+        "linkTo": "https://spandanakalakonda.github.io/ssrstore/home.html"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/SpandanaKalakonda/ssrstore"
+        },
+        {
+          "type": "external",
+          "url": "https://spandanakalakonda.github.io/ssrstore/home.html"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Academic",
+      "title": "Text classification using CNN and LSTM",
+      "description": "Text classification using CNN and LSTM using Python, NLP, Google Collab",
+      "tags": ["academic", "machine learning"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Classification",
+        "linkTo": "https://github.com/SpandanaKalakonda/text_classification"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/SpandanaKalakonda/text_classification"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Personal",
+      "title": "My Portfolio",
+      "description": "My portfolio created using gatsby",
+      "tags": ["project", "portfolio"],
+      "image": {
+        "src": "../../images/Portfolio.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/SpandanaKalakonda/myPortfolio"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/SpandanaKalakonda/myPortfolio"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/SpandanaKalakonda"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "intro": "Hello",
+  "heroPhoto": {
+    "src": "../../images/spandana.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Spandana Kalakonda",
+  "subtitle": {
+    "prefix": "I am a ",
+    "highlight": "Software Developer",
+    "suffix": "."
+  },
+  "description": "I am a graduate student at Southern Illinois University Edwardsville.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
